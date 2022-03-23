@@ -6,5 +6,4 @@
 ![intro_2](./Figures/.IntroPage/Paper_Overview_Figure_2.png)<br>
 
 
-
 Hopefully our paths cross in the near future. In the meantime, may the odds be ever in your favor!
