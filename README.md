@@ -9,4 +9,4 @@
 Hopefully our paths cross in the near future. In the meantime, may the odds be ever in your favor!
 
 
-P.S. If this repository fails to sate your curiosity feel free to shoot me an email: jtalwar@eng.ucsd.edu.
+*P.S.* If this repository fails to sate your curiosity feel free to shoot me an email: jtalwar@eng.ucsd.edu.
