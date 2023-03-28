@@ -10,14 +10,14 @@
 ## Organization:
 
 This repository is organized accordingly:
-    ```
-    .<br />
-    ├── build                   # Compiled files (alternatively `dist`)<br />
-    ├── docs                    # Documentation files (alternatively `doc`)<br />
-    ├── src                     # Source files (alternatively `lib` or `app`)<br />
-    ├── test                    # Automated tests (alternatively `spec` or `tests`)<br />
-    ├── tools                   # Tools and utilities<br />
-    ├── LICENSE                 <br />
+    ```css
+    MelMHC
+    ├── build                   # Compiled files (alternatively `dist`)
+    ├── docs                    # Documentation files (alternatively `doc`)
+    ├── src                     # Source files (alternatively `lib` or `app`)
+    ├── test                    # Automated tests (alternatively `spec` or `tests`)
+    ├── tools                   # Tools and utilities
+    ├── LICENSE                 
     └── README.md
      ```
 
