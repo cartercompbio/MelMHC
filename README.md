@@ -20,3 +20,5 @@ This repository is organized accordingly:
      
 
 I hope this repository has proven to be helpful in both ameliorating intractable immune investigations and affording an avenue for veritably validating veracity. I wish you good fortune in the analyses to come, and perhaps, one day, our paths may cross. Until that day comes though... *may the odds be ever in your favor*!
+
+*JVT*
